@@ -26,7 +26,7 @@ Used Skills:
 • Java 
 • Spring Boot
 • Spring Security
-• Okta
+• OAuth2(Okta)
 • MySQL
 • Spring data JPA-HIBERNATE 
 • lombok
